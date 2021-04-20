@@ -1,5 +1,5 @@
-# VLDB 2021 Crowd Science Challenge
-This repository contains a baseline, data, and example of how to make a submission.
+# VLDB 2021 Crowd Science Challenge Starter Kit
+This repository contains startket kit to jump into the competition. Specifically, it contains a simple baseline, train data, and evaluation code -- everything you need to make a first submission!
 
 ## How to make a submission
 First, let's run a baseline.
